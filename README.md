@@ -1,6 +1,10 @@
-# Welcome to My GitHub Repository! 🌟
+# Welcome to My GitHub Repository!  🌟
 
-[![MasterHead](https://media.giphy.com/media/1337mjZhdNJWSY/giphy.gif)]
+<p align="center">
+  <img src="https://media.giphy.com/media/NPXkCN2FutVO1Nt4P9/giphy.gif" alt="Cyber Security Attack">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Zakaria</h1>
 <h3 align="center">A passionate software engineer and IT Master's student from</h3>
 
