@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Zakaria</h1>
-<h3 align="center">A passionate software engineer and IT Master's student from</h3>
+<h3 align="center">A passionate software engineer and IT Master's student from Algeria</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakytm" alt="zakytm" /></a> </p>
