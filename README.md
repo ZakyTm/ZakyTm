@@ -102,7 +102,7 @@
 
 | Status | Project | What It Does | Stack |
 |:------:|---------|--------------|-------|
-| 🟢 **Active** | **WHATUP-DHASHBOARD SaaS** | WhatsApp order dashboard for Algerian SMBs — inventory, status tracking, pre-formatted replies | `Laravel` `Vue.js` `MySQL` |
+| 🟢 **Active** | **ORDERFLOW  mini-SaaS** | WhatsApp order dashboard for Algerian SMBs — inventory, status tracking, pre-formatted replies | `Laravel` `Vue.js` `MySQL` |
 | 🟡 **Building** | **AI Job Hunter Agent** | Monitors Telegram & Emplotic, auto-tailors CVs and drafts emails per job posting | `LangGraph` `n8n` `Python` |
 | 🔵 **Research** | **Voice AI Agent** | Real-time voice-powered AI assistant for hands-free workflows | `OpenAI` `LangChain` `FastAPI` |
 | ⚪ **Planned** | **OSS Automation Toolkit** | Reusable agent templates & scraping libraries for the community | `Python` `CrewAI` |
